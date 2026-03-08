@@ -1,0 +1,5 @@
+{
+  "name": "Dragon Tiger Tournament Platform",
+  "description": "A real-time multiplayer Dragon Tiger card game with tournament modes, live betting, and a robust admin control panel.",
+  "requestFramePermissions": []
+}
